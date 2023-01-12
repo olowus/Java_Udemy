@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aplikasi Todo List Java Dasar Udemy/Aplikasi Todo List Java Dasar Udemy.iml" filepath="$PROJECT_DIR$/Aplikasi Todo List Java Dasar Udemy/Aplikasi Todo List Java Dasar Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Fundamental Udemy/Java Fundamental Udemy.iml" filepath="$PROJECT_DIR$/Java Fundamental Udemy/Java Fundamental Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate with Pak Tri/Java Intermediate with Pak Tri.iml" filepath="$PROJECT_DIR$/Java Intermediate with Pak Tri/Java Intermediate with Pak Tri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java OOP Udemy/Java OOP Udemy.iml" filepath="$PROJECT_DIR$/Java OOP Udemy/Java OOP Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java_Udemy.iml" />
+    </modules>
+  </component>
+</project>
